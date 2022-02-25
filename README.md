@@ -1,8 +1,6 @@
-# Open Graph Generator
+# TexAu Open Graph Generator
 
 🍇 Open Graph Generator made using [next-api-og-image](https://github.com/neg4n/next-api-og-image) for personal use.
-
-Feel free to fork it and use it for your website!
 
 ## General OG
 
@@ -19,7 +17,6 @@ Query:
 ![image](https://user-images.githubusercontent.com/55318172/137609439-337ada28-69d7-4dbd-a5f5-e62488c3e16e.png)
 
 `/api/general?templateTitle=Page Name&siteName=Your Site Name&description=Lorem ipsum&theme=light`
-
 
 ### Dark Mode & Site Name Only
 

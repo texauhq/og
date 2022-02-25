@@ -7,8 +7,8 @@ const defaultMeta = {
   title: 'Open Graph Generator',
   siteName: 'Open Graph Generator',
   description: 'Made for personal use by Theodorus Clarence',
-  url: 'https://og.thcl.dev',
-  image: 'https://og.thcl.dev/images/logo.jpg',
+  url: ' https://texauhq.github.io/og',
+  image: ' https://texauhq.github.io/og/images/logo.png',
   type: 'website',
   robots: 'follow, index',
 };

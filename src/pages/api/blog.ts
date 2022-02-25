@@ -26,7 +26,7 @@ export default withOGImage<'query', keyof typeof QueryEnum>({
       const query = {
         siteName: siteName ?? 'Site Name',
         description: description ?? 'Description',
-        logo: logo ?? 'https://og.thcl.dev/images/logo.jpg',
+        logo: logo ?? ' https://texauhq.github.io/og/images/logo.png',
         theme: theme ?? 'dark',
         templateTitle,
         logoWidth: logoWidth ?? '100',
